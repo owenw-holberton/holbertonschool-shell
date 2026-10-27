@@ -9,3 +9,4 @@ Task 7: Script that move file "betty" from /tmp to /tmp/my_first_directory
 Task 8: Delete file betty created in task 7
 Task 9: Delete dir "my_first_directory"
 Task 10: Change working dir to previous one
+Task 11: List all files including hidden ones in current dir, parent of the working dir, and /boot dir in long format
