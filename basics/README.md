@@ -8,3 +8,4 @@ Task 6: Script that creates a dir named "my_first_directory" in /tmp/ dir
 Task 7: Script that move file "betty" from /tmp to /tmp/my_first_directory
 Task 8: Delete file betty created in task 7
 Task 9: Delete dir "my_first_directory"
+Task 10: Change working dir to previous one
