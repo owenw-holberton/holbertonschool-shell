@@ -11,3 +11,4 @@ Task 9: Delete dir "my_first_directory"
 Task 10: Change working dir to previous one
 Task 11: List all files including hidden ones in current dir, parent of the working dir, and /boot dir in long format
 Task 12: Prints the type of the file
+Task 13: Create a symbloic link to /bin/ls
