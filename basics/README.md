@@ -12,3 +12,4 @@ Task 10: Change working dir to previous one
 Task 11: List all files including hidden ones in current dir, parent of the working dir, and /boot dir in long format
 Task 12: Prints the type of the file
 Task 13: Create a symbloic link to /bin/ls
+Task 14: Copy all HTML files from current working dir to parent of the working dir if it doesn't exist or were outdated
