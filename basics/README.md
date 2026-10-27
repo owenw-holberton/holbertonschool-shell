@@ -4,3 +4,4 @@ Task 2: A script that changes the working dir to user's home dir
 Task 3: A script that display currect dir contents in long format
 Task 4: A script that display all content (including hidden files) in current dir
 Task 5: Display all current dir content as long format, with user and grp IDs displayed numerically
+Task 6: Script that creates a dir named "my_first_directory" in /tmp/ dir
