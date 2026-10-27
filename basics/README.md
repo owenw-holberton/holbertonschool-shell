@@ -6,3 +6,4 @@ Task 4: A script that display all content (including hidden files) in current di
 Task 5: Display all current dir content as long format, with user and grp IDs displayed numerically
 Task 6: Script that creates a dir named "my_first_directory" in /tmp/ dir
 Task 7: Script that move file "betty" from /tmp to /tmp/my_first_directory
+Task 8: Delete file betty created in task 7
