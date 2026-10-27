@@ -6,3 +6,4 @@ Task 4: Create an empty file called "hello"
 Task 5: Add execute permission to the owner of the file hello
 Task 6: Add execute permission to owner and group
 Task 7: Add execute permission to all users
+Task 8: Set specific permission based on group
