@@ -15,3 +15,4 @@ Task 13: Create a symbloic link to /bin/ls
 Task 14: Copy all HTML files from current working dir to parent of the working dir if it doesn't exist or were outdated
 Task 15: Move files beginning with uppercase letter
 Task 16: Delete files in current dir that end with charater ~
+Task 17: A script that create a nested dir in current dir: "welcome", "welcome/to", and "welcome/to/school"
