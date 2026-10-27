@@ -1,1 +1,1 @@
-This dir contians a series of exercise for learning and practising the basics of shell
+This project contian a series of exercise to pratice shell basics
