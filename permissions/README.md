@@ -8,3 +8,5 @@ Task 6: Add execute permission to owner and group
 Task 7: Add execute permission to all users
 Task 8: Set specific permission based on group
 Task 9: Set specific permission based on given requirement
+Task 10: Mirror permission from one file to another
+Task 11: Add permission to all subdir of the current dir, based on requirement
