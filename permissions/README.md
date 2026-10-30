@@ -11,3 +11,7 @@ Task 9: Set specific permission based on given requirement
 Task 10: Mirror permission from one file to another
 Task 11: Add permission to all subdir of the current dir, based on requirement
 Task 12: Craete a dir and specify permission during creation
+Task 13: Change group owner of a file
+Task 14: Change owner and group owner for all files and dir in working dir
+Task 15: Change owner and group owner based on requirement
+Task 16: Script that changes owner of a file based on a condition
